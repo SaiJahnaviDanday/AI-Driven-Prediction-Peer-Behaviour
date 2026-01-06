@@ -9,7 +9,7 @@ Clone the Repository:
 Clone this repository to your local machine using Git:
 Bash
 
-git clone https://github.com/batuhantnrkulu/Access_Control_Mechanism.git
+
 
 Install Dependencies:
 Navigate to the project directory and install the required dependencies:
